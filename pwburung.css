@@ -1,0 +1,26 @@
+
+#header{
+    background-color: #676767;
+    text-align: center;
+ }
+blockquote{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+body{
+    background-color:rgb(48, 241, 0);
+    color:rgb(0, 0, 0);
+}
+.gambar {
+    display: flex;
+    justify-content: center;
+}
+.koleksi img{
+    width: 370px;
+    height: 300px;
+}
+button{
+    justify-content: center;
+    display: flex;
+}
+
